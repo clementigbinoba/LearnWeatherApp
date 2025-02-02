@@ -1,0 +1,10 @@
+#CREATION OF WEATHER-APP
+
+SETTING UP VITE (For the required folder structure)
+i. open visual studio ii. open new terminal. iii. npm create vite@lates
+1v. select React frame work v. select javascript. vi. enter folder name vii. npm install viii. npm run dev
+
+# GIT INIT,COMMIT, PUSH
+#
+# 1.git init (to initialize the git repo) 11.git add . (To stage all files) 111.(git commit -m'update' (it may ask you who are you. just type git config 'your name' do same with the password), re commit again 1V.git remote push -u origin master(to know the branch type git status or branch) V.type your name and password as prompted
+
