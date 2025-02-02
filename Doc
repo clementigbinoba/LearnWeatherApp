@@ -2,7 +2,7 @@
 
 SETTING UP VITE (For the required folder structure)
 i. open visual studio ii. open new terminal. iii. npm create vite@lates
-1v. select React frame work v. select javascript. vi. enter folder name vii. npm install viii. npm run dev
+1v. select React frame work v. select javascript. vi. enter folder name then cd to the folder vii. npm install viii. npm run dev
 
 # GIT INIT,COMMIT, PUSH
 #
